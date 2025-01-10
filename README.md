@@ -3,9 +3,9 @@
 #1
 
 post /orders
-- [ ] ingen validering alls
-- [ ]  tar emot okänd fält för icke existerande objekt
-- [ ]   kastar inga felmeddelanden
-- [ ]    totalamount fungerar inte riktigt, tar inte med quantity men räknar ihop olika items
+- [x] ingen validering alls
+- [x]  tar emot okänd fält för icke existerande objekt
+- [x]   kastar inga felmeddelanden
+- [x]    totalamount fungerar inte riktigt, tar inte med quantity men räknar ihop olika items
 
 #2
