@@ -18,9 +18,8 @@ post /orders
 - [ ] Ingen validering alls - status borde vara en enum, validering borde ske på servern (modeller för detta) Price och totalamount hänger inte ihop 
 - [ ] Saknar funtionallitet för att spara till fil, men ger ok - lägg till write to file
 - [ ] Finns ingen kontroll av ordningen utav sparande - Vi borde se till att låsa processen för att spara och skapa en kö för efterföljande uppdateringar
-- [ ] 
-#4
 
+#4
 - [ ] hittar order men uppdaterar inte status eller updatedAt
 - [ ] loggar inte listenerCount
 - [ ] uppdaterar inte orders.json
