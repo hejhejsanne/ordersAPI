@@ -17,3 +17,6 @@ post /orders
 
 - [ ] hittar order men uppdaterar inte status eller updatedAt
 - [ ] loggar inte listenerCount
+- [ ] uppdaterar inte orders.json
+- [ ] minnesanvändning går upp mycket vid många requests
+- [ ] max eventListeners är 10, kanske lite lågt?
