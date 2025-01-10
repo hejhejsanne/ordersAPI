@@ -25,3 +25,7 @@ post /orders
 - [ ] uppdaterar inte orders.json
 - [ ] minnesanvändning går upp mycket vid många requests
 - [ ] max eventListeners är 10, kanske lite lågt?
+
+#5
+- [ ] man kan inte köra flera samtidigt
+- [ ] calculate fel
