@@ -29,6 +29,7 @@ post /orders
 #5
 - [ ] man kan inte köra flera samtidigt
 - [ ] calculate fel, är 10000 istället fär längd
+- [ ] lägg till   writeOrdersToFile(orders) på slutet för att spara till orders.json
 
 #7
 - [ ] findIndex används istället för find
