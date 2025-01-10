@@ -12,3 +12,8 @@ post /orders
  - [ ] ger inte korrekt information vid felmeddelande, tex vid inmatning av en String
  - [ ] säger order not found när man skickar in null, bör säga ange ett id eller id cannot be null
  - [ ] loggar inte fel för felsökning
+
+#4
+
+- [ ] hittar order men uppdaterar inte status eller updatedAt
+- [ ] loggar inte listenerCount
