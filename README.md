@@ -32,3 +32,4 @@ post /orders
 
 #7
 - [ ] findIndex används istället för find
+- [ ] ändringen man gör loggas i funktionen men sparas inte i objektet
