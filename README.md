@@ -34,3 +34,6 @@ post /orders
 #7
 - [ ] findIndex används istället för find
 - [ ] ändringen man gör loggas i funktionen men sparas inte i order objektet i "orders"
+
+#8
+- [ ] funktionen loopar igenom orders som redan har state processed och sätter dom till processed, den borde bara loopa igenom och sätta process på de funktionerna som inte har state "processed"
