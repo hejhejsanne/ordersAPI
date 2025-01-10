@@ -36,4 +36,4 @@ post /orders
 - [ ] ändringen man gör loggas i funktionen men sparas inte i order objektet i "orders"
 
 #8
-- [ ] funktionen loopar igenom orders som redan har state processed och sätter dom till processed, den borde bara loopa igenom och sätta process på de funktionerna som inte har state "processed"
+- [ ] funktionen loopar igenom orders som redan har processed true och sätter dom till processed true, den borde bara loopa igenom och sätta processed true på de funktionerna som inte redan har processed true
