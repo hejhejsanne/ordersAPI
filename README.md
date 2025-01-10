@@ -3,10 +3,10 @@
 #1
 
 post /orders
-- [x] ingen validering alls
-- [x]  tar emot okänd fält för icke existerande objekt
-- [x]   kastar inga felmeddelanden
-- [x]    totalamount fungerar inte riktigt, tar inte med quantity men räknar ihop olika items
+- [ ] ingen validering alls
+- [ ]  tar emot okänd fält för icke existerande objekt
+- [ ]   kastar inga felmeddelanden
+- [ ]    totalamount fungerar inte riktigt, tar inte med quantity men räknar ihop olika items
 
 #2
  - [ ] ger inte korrekt information vid felmeddelande, tex vid inmatning av en String
