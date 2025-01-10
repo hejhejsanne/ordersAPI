@@ -10,3 +10,4 @@ post /orders
 
 #2
  - [ ] ger inte korrekt information vid felmeddelande, tex vid inmatning av en String
+ - [ ] säger order not found när man skickar in null, bör säga ange ett id eller id cannot be null
