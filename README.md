@@ -37,3 +37,11 @@ post /orders
 #8
 - [x] funktionen loopar igenom orders som redan har processed true och sätter dom till processed true, den borde bara loopa igenom och sätta processed true på de funktionerna som inte redan har processed true
 - [x] ingen rollback 
+
+
+
+
+
+
+** 17 Poäng **
+
