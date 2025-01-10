@@ -28,4 +28,4 @@ post /orders
 
 #5
 - [ ] man kan inte köra flera samtidigt
-- [ ] calculate fel
+- [ ] calculate fel, är 10000 istället fär längd
