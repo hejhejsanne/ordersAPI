@@ -29,3 +29,6 @@ post /orders
 #5
 - [ ] man kan inte köra flera samtidigt
 - [ ] calculate fel, är 10000 istället fär längd
+
+#7
+- [ ] findIndex används istället för find
