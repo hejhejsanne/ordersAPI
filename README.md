@@ -9,3 +9,4 @@ post /orders
 - [x]    totalamount fungerar inte riktigt, tar inte med quantity men räknar ihop olika items
 
 #2
+ - [ ] ger inte korrekt information vid felmeddelande, tex vid inmatning av en String
